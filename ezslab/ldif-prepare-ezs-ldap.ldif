@@ -1,0 +1,6 @@
+dn: ou=labor,ou=people,dc=hs-esslingen,dc=de
+changetype: add
+objectClass: organizationalUnit
+objectClass: top
+ou: labor
+

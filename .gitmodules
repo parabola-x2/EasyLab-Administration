@@ -1,0 +1,9 @@
+[submodule "chisubmit"]
+	path = external-labverwaltung-software/chisubmit
+	url = https://github.com/uchicago-cs/chisubmit
+[submodule "assigner"]
+	path = external-labverwaltung-software/assigner
+	url = https://github.com/redkyn/assigner.git
+[submodule "submodules"]
+	path = submodules
+	url = https://github.com/parabola-x2/EasyLab-Helper.git

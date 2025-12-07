@@ -1,0 +1,6 @@
+*.ldif
+cmake-build-debug/
+.idea/
+*.log
+*.swp
+.svn

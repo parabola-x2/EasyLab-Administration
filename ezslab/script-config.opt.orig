@@ -1,0 +1,17 @@
+# All entries without inverted commas.
+
+# Prefix should match with the StudentConfiguration.opt file. Please choose your own prefix string and adapt in the StudentConfiguation.opt file.
+# MAXREPOS should match with the StudentConfiguration.opt file. Please choose your own value and adapt in the StudentConfiguation.opt file.
+[labor]
+MAXREPOS = 35
+PREFIXREPOLIST = ezs-stud-,sa-stud-
+
+[gitlab]
+GITLAB_SERVER=<HOST:PORT>
+GITLAB_SERVER_TOKEN=<TOKEN_ID>
+
+[credentials]
+GITLAB_ADMIN = <ADMIN_ID>
+GITLAB_ADMIN_PASSWORD = <ADMIN_PASSWORD>
+LDAP_ADMIN = <LDAP_ADMIN_ID>
+LDAP_ADMIN_PASSWORD = <LDAP_ADMIN_PASSWORD>
