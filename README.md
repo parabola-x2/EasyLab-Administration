@@ -1,20 +1,19 @@
-# Documentation\_LDAP\_based\_EasyLab\_Adminstration.md
+# README
 
 ### LDAP based Student GitLab & Jenkins Automation Tool - EasyLab Adminstration
+
+**Lab Supervision for Bachelor Students**\
+Monitored and guided laboratory tasks for 4th semester bachelor students, ensuring proper execution of experiments and reinforcing theoretical concepts with hands-on practice.
+
+* Developed a software **LDAP based EasyLab Adminstration Tool** to automate group assignments and monitoring their activities on Jenkins
+
+<figure><img src=".gitbook/assets/easylab.png" alt="" width="375"><figcaption></figcaption></figure>
 
 This LDAP based software written in Python 2.7 automates the setup of student development environments by:
 
 * Creating GitLab repositories for each student based on their **LDAP ID**.
 * Assigning GitLab logins.
 * Creating Jenkins jobs for continuous integration.
-
-### **Repositories and Submodules**
-
-Author: Software has been written by Lecturer M Sc. Vikas Agrawal.
-
-In case of queries, please feel free to contact : vikas.agrawal.de@gmail.com
-
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>EasyLab Adminstration</td><td><a href="https://github.com/parabola-x2/EasyLab-Administration.git">https://github.com/parabola-x2/EasyLab-Administration.git</a></td><td><a href="https://images.unsplash.com/photo-1689236673934-66f8e9d9279b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVjaG5pY2FsbGFifGVufDB8fHx8MTc2NTAzODE3Nnww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1689236673934-66f8e9d9279b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVjaG5pY2FsbGFifGVufDB8fHx8MTc2NTAzODE3Nnww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
 
 ### **1. Install GitLab Runner**
 
@@ -71,3 +70,11 @@ In case of queries, please feel free to contact : vikas.agrawal.de@gmail.com
   * Repository Templates
   * **Template Repo** (`/submodules/template-repo`) → generates lab repos.
   * **Example Repo** (`/submodules/example-repo`) → contains sample code for reference.
+
+### **Repositories and Submodules**
+
+Author: Software has been written by Lecturer M Sc. Vikas Agrawal.
+
+In case of queries, please feel free to contact : vikas.agrawal.de@gmail.com
+
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>EasyLab Adminstration</td><td><a href="https://github.com/parabola-x2/EasyLab-Administration.git">https://github.com/parabola-x2/EasyLab-Administration.git</a></td><td><a href="https://images.unsplash.com/photo-1689236673934-66f8e9d9279b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVjaG5pY2FsbGFifGVufDB8fHx8MTc2NTAzODE3Nnww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1689236673934-66f8e9d9279b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVjaG5pY2FsbGFifGVufDB8fHx8MTc2NTAzODE3Nnww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
