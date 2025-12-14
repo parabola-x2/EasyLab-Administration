@@ -1,3 +1,3 @@
 # Table of contents
 
-* [README](README.md)
+* [Easy Lab Adminstration](README.md)
